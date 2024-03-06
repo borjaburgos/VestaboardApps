@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/python /usr/src/app/VestaWeatherApp.py >> /var/log/cron.log 2>&1
